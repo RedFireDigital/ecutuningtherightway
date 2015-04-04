@@ -1,6 +1,6 @@
 ---
 title:   Bench Tuning
-ischild: true
+isChild: true
 anchor:  bench_tuning
 ---
 
