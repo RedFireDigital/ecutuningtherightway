@@ -1,8 +1,8 @@
 ---
-title:   Bench-Tuning
+title:   Bench Tuning
 ischild: true
-anchor:  Bench_tuning
+anchor:  bench_tuning
 ---
 
 
-## Bench Tuning Tuning {#Bench_tuning}
+## Bench Tuning {#bench_tuning}
