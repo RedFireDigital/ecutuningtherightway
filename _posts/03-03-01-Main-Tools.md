@@ -12,8 +12,12 @@ We will cover the most common and readily available tools here. we will break th
 These tools are for flashing data over the vehicles diagnostic port. Included is a general overview, key features, a picture of the genuine tool for reference. 
 If you are starting up a business in the Chip Tuning industry we strongly recommend you buy Genuine Professional Tuning Tool's. We would advise against buying a cloned or knock off tools. We must remind you that the cost of a new Ecu can be £500 - £2000 so make sure you have all the necessary tool's for the job. All OBD flash tool's have their strong and weak point's so be sure that you are using the correct tool for that specific vehicle
 
-There are 4 main tool manufacturers are
-ALIENTECH KESS V2
-FLASTEC CMD
-FGTECH EOBD2
-AMT-cartech MPPS
+There are 4 main tool manufacturers are-
+
+*ALIENTECH KESS V2
+
+*FLASTEC CMD
+
+*FGTECH EOBD2
+
+*AMT-cartech MPPS
