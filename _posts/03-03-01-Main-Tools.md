@@ -16,7 +16,7 @@ There are 4 main tool manufacturers are-
 
 *ALIENTECH KESS V2
 
-*FLASTEC CMD
+*FLASHTEC CMD
 
 *FGTECH EOBD2
 
