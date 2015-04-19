@@ -7,7 +7,7 @@ anchor:  obd_tuning
 
 ## OBD Tuning {#obd_tuning}
 
-When you arrive at the vehicle here are some pointers or consider it a general guide to calibrating the ecu correctly and safely through the OBD. Do not try to cut corners, rush or cheat the job! Remember to choose the right tool for the specific vehicle in hand.
+When you arrive at the vehicle there are some pointers or consider it a general guide to calibrating the ecu correctly and safely through the OBD. Do not try to cut corners, rush or cheat the job! Remember to choose the right tool for the specific vehicle in hand.
 
 ### Basic OBD Procedure {#basic_obd_procedure}
 1: Visual Inspection
